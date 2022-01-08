@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @luciusryckhuijssen
 - 👀 I’m interested in capture the flag (CTF)
 - 🌱 I’m currently learning capture the flag (CTF)
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me luciusryckhuijssen@gmail.com
 
 <!---
